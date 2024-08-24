@@ -27,11 +27,6 @@ emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
 cap = cv2.VideoCapture(0)
 
 
-
-# Hello Shashikant
-
-
-
 Dict = defaultdict(lambda:0)
 
 def solve():
